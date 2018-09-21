@@ -6,8 +6,10 @@ description: Obia Experiment
 toc: false
 ---
 
+<p align="center">
 **Liber LA sub figura XIV**
 <img src="http://astrumargentum.github.io/la/laurie.jpg">
+  </p>
 ooo. This is the Book of the Lab of the Division Within. 
 
 oo. The Gynocologist is Ryan. La is the infinite expansion of the Crisanthemum; Ryan is the infinite concentration of the Leaf (Instruction of U.U.U.U.U.U.U.U.). 
